@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.2] - 2023-10-29
+
+### Added
+
+- Create Example.xlsx [040f575](https://github.com/endressb/tax-lot-tracker/pull/5/commits/040f575)
+
 ## [0.1.1] - 2023-10-29
 
 ### Changed
@@ -15,4 +21,5 @@
 
 _Initial release._
 
+[0.1.1]: https://github.com/endressb/tax-lot-tracker/releases/tag/v0.1.1
 [0.1.0]: https://github.com/endressb/tax-lot-tracker/releases/tag/v0.1.0
