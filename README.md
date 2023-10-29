@@ -2,6 +2,8 @@ This Workbook helps you keep track of individual tax lots and calculate your tax
 
 Disclaimer: I am not a tax professional, lawyer, or accountant.  I believe this tool calculates correctly, but it should only be used as an estimation.  Tax rules are confusing and up to interpretation, especially when assigning acquisition methods.  If you don’t have a complete understanding of the tax implications of assigning incorrect acquisition methods, please consult a tax professional.
 
+[![Common Changelog](https://common-changelog.org/badge.svg)](https://common-changelog.org)
+
 Each asset has its own Sheet.  To make a new asset, copy the "Template" Sheet.
 
 Each asset Sheet is divided in to 4 sections, “Obtained”, “Dispositions”, “Admin Data”, and a tax section.
